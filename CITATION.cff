@@ -4,9 +4,10 @@ title: "YADE DEM Codes for Micromechanical Analysis of Cyclic Fault-Valve Behavi
 authors:
   - family-names: "LARKEM"
     given-names: "Oussama"
-version: "1.0.0"
+version: "1.0.2"
 date-released: "2026-06-04"
 repository-code: "https://github.com/Larkem2110/cyclic-injection-yade-forcechains"
+doi: "10.5281/zenodo.20534238"
 license: "MIT"
 keywords:
   - YADE
