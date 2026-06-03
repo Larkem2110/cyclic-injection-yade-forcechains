@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
-title: "Cyclic Injection YADE Force-Chain Analysis"
+title: "YADE DEM Codes for Micromechanical Analysis of Cyclic Fault-Valve Behaviour"
 authors:
   - family-names: "LARKEM"
     given-names: "Oussama"
