@@ -51,4 +51,4 @@ The scripts produce YADE state files, text files containing macroscopic quantiti
 
 Please cite the archived Zenodo release of this repository if you use these scripts:
 
-https://doi.org/10.5281/zenodo.20534192
+https://doi.org/10.5281/zenodo.20534238
