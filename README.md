@@ -1,4 +1,4 @@
-# Cyclic Injection YADE Force-Chain Analysis
+# YADE DEM Codes for Micromechanical Analysis of Cyclic Fault-Valve Behaviour
 
 This repository contains YADE DEM scripts used for direct shear simulation, cyclic fluid injection, and force-chain tracking in granular fault gouge simulations.
 
